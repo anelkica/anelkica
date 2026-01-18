@@ -9,10 +9,7 @@
 ## My main skills
 [![Main Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,python,js,react,linux)](https://skillicons.dev)
 
-## I ***played*** with...
-[![Dabbled Skills](https://skillicons.dev/icons?i=godot,arduino)](https://skillicons.dev)
-
-## I'm ***interested*** learning...
+## I'm ***interested*** in learning...
 [![Interested Skills](https://skillicons.dev/icons?i=rust,swift,kotlin,flutter)](https://skillicons.dev)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=8ccdd4&fontColor=FAF9F6&fontSize=32&fontAlignY=25&section=footer" alt="footer"/>
